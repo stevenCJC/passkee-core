@@ -1,0 +1,6 @@
+demo/__PACKAGE__/node_modules
+demo/client/node_modules
+demo/server/node_modules
+demo/server/node_modules
+demo2/node_modules
+src/node_modules
